@@ -6,7 +6,7 @@ build out this QR code component
 
 The designs were created to the following widths:
 
-- Mobile: 375px
+- Mobile: 375px- still working on....
 - Desktop: 1440px
 
 ## Colors
